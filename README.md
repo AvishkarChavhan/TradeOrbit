@@ -26,4 +26,4 @@ TradeOrbit is a real-time stock trading platform inspired by Zerodha. It allows 
 - Chart.js (or any data visualization library)
 - Real-time analytics display
 
-## Project Structure
+
